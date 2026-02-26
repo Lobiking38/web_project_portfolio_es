@@ -1,0 +1,19 @@
+@font-face {
+  font-family: ArchivoBlack-Regular;
+  src: url(../fonts/ArchivoBlack-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../fonts/OpenSans-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: OpenSans-SemiBold;
+  src: url(../fonts/OpenSans-SemiBold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: OpenSans-Bold;
+  src: url(../fonts/OpenSans-Bold.woff2) format("woff2");
+}
