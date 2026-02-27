@@ -1,0 +1,295 @@
+.content {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.tools_title {
+  position: absolute;
+  top: 640px;
+  left: 120px;
+  range: 0 deg;
+  opacity: 1;
+  width: 603px;
+  height: 44px;
+  color: #fff;
+  font-family: ArchivoBlack-Regular;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 40px;
+  padding-bottom: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.tools_list {
+  position: absolute;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 180px;
+  width: 50;
+  height: 57;
+  top: 734px;
+  left: 120px;
+  range: 0 deg;
+  opacity: 1;
+  padding-top: 50px;
+}
+
+.title_projects {
+  color: #fff;
+  position: absolute;
+  width: 487px;
+  height: 44px;
+  top: 891px;
+  left: 120px;
+  range: 0 deg;
+  opacity: 1;
+  font-family: ArchivoBlack-Regular;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 40px;
+  padding-bottom: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.project_one {
+  position: absolute;
+  top: 50px;
+}
+.project_image_one {
+  position: absolute;
+  width: 590px;
+  height: 330px;
+  top: 985px;
+  left: 120px;
+  range: 0 deg;
+  opacity: 1;
+}
+
+.project_item_one {
+  border: 1px solid #1c1c1c;
+  background-color: #1c1c1c;
+  position: absolute;
+  width: 590px;
+  height: 340px;
+  top: 1315px;
+  left: 120px;
+  range: 0 deg;
+  opacity: 1;
+}
+
+.project_title_one {
+  width: 339px;
+  height: 33px;
+  left: 150px;
+  top: 1345px;
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #ffffff;
+  padding-left: 30px;
+}
+
+.project_description_one {
+  width: 530px;
+  height: 175px;
+  left: 150px;
+  top: 1398px;
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+  padding-left: 30px;
+}
+
+.project_two {
+  position: absolute;
+  top: 50px;
+}
+.project_image_two {
+  position: absolute;
+  width: 590px;
+  height: 330px;
+  top: 985px;
+  left: 730px;
+  range: 0 deg;
+  opacity: 1;
+}
+
+.project_item_two {
+  border: 1px solid #1c1c1c;
+  background-color: #1c1c1c;
+  position: absolute;
+  width: 590px;
+  height: 340px;
+  top: 1315px;
+  left: 730px;
+  range: 0 deg;
+  opacity: 1;
+}
+
+.project_title_two {
+  width: 143px;
+  height: 33px;
+  left: 760px;
+  top: 1345px;
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #ffffff;
+  padding-left: 30px;
+}
+
+.project_description_two {
+  width: 530px;
+  height: 25px;
+  left: 760px;
+  top: 1398px;
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+  padding-left: 30px;
+}
+
+.icon_html_one {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 1265px;
+  left: 132px;
+  z-index: 2;
+}
+
+.icon_css_one {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 1265px;
+  left: 182px;
+  range: 0 deg;
+  opacity: 1;
+  z-index: 2;
+}
+
+.icon_js_two {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 1265px;
+  left: 740px;
+  range: 0 deg;
+  opacity: 1;
+  z-index: 2;
+}
+
+.icon_atomo_two {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 1265px;
+  left: 790px;
+  range: 0 deg;
+  opacity: 1;
+  z-index: 2;
+}
+
+.union_one {
+  width: 142px;
+  height: 22px;
+  left: 150px;
+  top: 1603px;
+  padding-left: 30px;
+  display: flex;
+  align-content: center;
+  flex-wrap: nowrap;
+  gap: 10px;
+}
+
+.project_link_one {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #6d6dff;
+  text-decoration: none;
+}
+
+.text_github_one {
+  position: absolute;
+  width: 53px;
+  height: 22px;
+  left: 212px;
+  top: 262px;
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.icon_github_one {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 182px;
+  top: 293px;
+}
+
+.union_two {
+  position: absolute;
+  width: 132px;
+  height: 22px;
+  left: 760px;
+  top: 1603px;
+  display: flex;
+  align-content: center;
+  flex-wrap: nowrap;
+  gap: 8px;
+}
+
+.project_link_two {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #6d6dff;
+  text-decoration: none;
+}
+
+.text_github_two {
+  position: absolute;
+  width: 53px;
+  height: 22px;
+  top: 1576px;
+  left: 942px;
+  font-family: OpenSans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.icon_github_two {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  top: 1604px;
+  left: 912px;
+}

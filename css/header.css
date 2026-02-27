@@ -1,4 +1,5 @@
 .header {
+  height: 100vh;
   display: flex;
   padding: 20px;
   max-width: 1023px;
@@ -84,6 +85,10 @@ p {
 .contact-link {
   color: #fff;
   text-decoration: none;
+}
+
+.contact-link:hover {
+  opacity: 0.5;
 }
 
 .CV_link {
