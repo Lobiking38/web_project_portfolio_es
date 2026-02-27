@@ -2,9 +2,17 @@
   height: 100vh;
   display: flex;
   padding: 20px;
-  max-width: 1023px;
+  width: 1023px;
   max-height: 600px;
   position: relative;
+}
+
+.profile_picture_me {
+  position: absolute;
+  width: 387px;
+  height: 500px;
+  left: 933px;
+  top: 40px;
 }
 
 .Name {
@@ -104,4 +112,14 @@ p {
 .Github_link {
   width: 138px;
   height: 25px;
+}
+
+.header_circle {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  left: 933px;
+  top: 240px;
+  background: #6d6dff;
+  filter: blur(200px);
 }
